@@ -1,0 +1,18 @@
+{
+    "name": "supergulp",
+    "version": "1.0.0",
+    "description": "Learn how to use gulp",
+    "main": "index.js",
+    "scripts": {
+        "dev": "gulp dev",
+        "build": "gulp build"
+    },
+    "author": "LeafSan",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "@babel/core": "^7.19.3",
+        "@babel/preset-env": "^7.19.3",
+        "@babel/register": "^7.18.9"
+    }
+}
